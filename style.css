@@ -218,14 +218,6 @@ ul li:nth-child(5) a:hover .fab {
   }
 }
 
-.info {
-  width: 50%;
-  background-color: #dddddd;
-  color: #00aced;
-  padding: 10px;
-  border-radius: 20px;
-}
-
 /*  ACCORDION  */
 
 .accordion {
